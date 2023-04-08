@@ -1,5 +1,5 @@
 # Options Dashboard
-This Dashboard does the Delta calculations of all the expires and creates some graphs based on those calculations.
+This Dashboard does the Delta calculations of all the expiries and creates some graphs based on those calculations.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
